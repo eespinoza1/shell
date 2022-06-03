@@ -4,4 +4,5 @@ Write a script that prints all the groups the current user is part of. Note: dep
 Write a script that changes the owner of the file hello to the user betty.3
 Write a script that creates an empty file called hello. 4
 Write a script that adds execute permission to the owner of the file hello.5
-Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.6 
+Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.6
+Write a script that adds execution permission to the owner, the group owner and the other users. 7 
