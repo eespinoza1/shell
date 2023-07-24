@@ -1,1 +1,1 @@
-hola mundo 
+my first encounter with the console
